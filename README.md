@@ -14,6 +14,7 @@ I used [Tinkercad circuits] (https://www.tinkercad.com/) to simulate an Arduino 
 - LED long leg -> resistor -> Pin 13
 - LED short leg -> GND
 - Arduino Uno used in Tinkercad
+- ![My Tinkercad Circuit](https://github.com/nia417/LED-blink-button-arduino/blob/main/circuit.png?raw=true)
 
 # Code Example
 '''cpp
